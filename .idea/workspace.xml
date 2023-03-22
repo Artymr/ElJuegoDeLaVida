@@ -4,79 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c904aa27-00a0-46f9-a09b-ed6f13c812b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aplicacion/Principal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aplicacion/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aplicacion/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dominio/Tablero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dominio/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dominio/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JuegoDeLaVida.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Manifest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allclasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/external/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-3.5.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dominio/Tablero_structure.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tablero.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-search-index.zip" afterDir="false" />
-    </list>
+    <list default="true" id="c904aa27-00a0-46f9-a09b-ed6f13c812b5" name="Changes" comment="Final de la practica" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,12 +64,24 @@
       <workItem from="1679038607995" duration="4962000" />
       <workItem from="1679043631391" duration="1525000" />
       <workItem from="1679384041333" duration="4534000" />
-      <workItem from="1679388631737" duration="2457000" />
+      <workItem from="1679388631737" duration="2633000" />
     </task>
+    <task id="LOCAL-00001" summary="Final de la practica">
+      <created>1679506081370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679506081371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final de la practica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final de la practica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
