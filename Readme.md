@@ -1,0 +1,3 @@
+Practica 2 de la asignatura de Programación 2.
+El juego de la vida
+Este juego consiste en una matriz de celdas cuadradas, que pueden estar vivas o muertas. El estado de las celdas evoluciona a lo largo de turnos, de acuerdo a unas reglas muy sencillas: una célula muerta con exactamente 3 células vecinas vivas "nace" (es decir, al turno siguiente estará viva); una célula viva con 2 o 3 células vecinas vivas sigue viva, en otro caso muere o permanece muerta (por "soledad" o "superpoblación").
